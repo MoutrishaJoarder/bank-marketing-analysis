@@ -1,2 +1,14 @@
 # bank-marketing-analysis
-Analysis of bank marketing dataset using Python (Pandas, Matplotlib, Seaborn) to understand customer subscription behaviour 
+This project analyzes a bank marketing dataset to understand customer behavior and predict term deposit subscription.
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+## Key Insights
+- Majority clients did not subscribe
+- Dataset contains both numerical and categorical features
+- Clear class imbalance observed
+## Files
+- Notebook (.ipynb)
+- Dataset (.csv)
